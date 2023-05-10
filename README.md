@@ -1,3 +1,5 @@
+![Re-TikTok_Patched_@TKJIKU](https://github.com/TKJIKU/TikTok/assets/128697634/2a0bdf94-8f2c-4869-a7fa-5e26f3801d3b)
+
 ㅤ★★★ Re-TikTok 全球版&亚洲版 ★★★
 
 ➠基于最新的 ReVanced 功能，对 TikTok应用程序进行错误修复和优化
@@ -20,7 +22,7 @@
 2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置和隐私”中点击“ReVanced Settings”
 3. 个人主页➜右上角菜单“≡”➜（设置与隐私）➜点击“ReVanced Settings”
 
-- Languages：完整多语言
+- 应用语言：完整多语言
 - CPU架构：arm64-v8a、armeabi-v7a
 - 应用包名：com.zhiliaoapp.musically
 - 应用包名：com.ss.android.ugc.trill （亚洲）
