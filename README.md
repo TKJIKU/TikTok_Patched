@@ -1,6 +1,6 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <img src="https://github.com/TKJIKU/TikTok/assets/128697634/2a0bdf94-8f2c-4869-a7fa-5e26f3801d3b" alt="Re-TikTok Patched @TKJIKU">
+   <img src="https://github.com/TKJIKU/Re-TikTok_Patched/assets/128697634/c4368abb-14c4-4d50-8262-6d5ebf471995" alt="Re-TikTok Patched @TKJIKU">
    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://pub.idqqimg.com/wpa/images/group.png" alt="ТК集库 | 抖音交流群" title="ТК集库 | 抖音交流群"></div>
 
    <br>TikTok最新去限制全球版&亚洲版  
@@ -26,11 +26,3 @@
 1. 如果 TikTok 在你的国家被禁止或限制，选择一个 Good VPN 连接到美国
 2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置和隐私”中点击“ReVanced Settings”
 3. 个人主页➜右上角菜单“≡”➜（设置与隐私）➜点击“ReVanced Settings”
-
----
-
-### ТК集库
-公众号《TK集库》  
-[QQ聊天群：724372344](https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt)
-
-TK集库：转载请备注来源，谢谢！🥰
