@@ -1,6 +1,6 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <img src="https://github.com/TKJIKU/Re-TikTok_Patched/assets/128697634/c4368abb-14c4-4d50-8262-6d5ebf471995" alt="Re-TikTok Patched @TKJIKU">
+   <img src="https://github.com/TKJIKU/Re-TikTok_Patched/assets/128697634/be8557a2-9fdd-4c3a-8c15-c8a373d7316b" alt="Re-TikTok Patched @TKJIKU">
    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://pub.idqqimg.com/wpa/images/group.png" alt="ТК集库 | 抖音交流群" title="ТК集库 | 抖音交流群"></div>
 
    <br>TikTok最新去限制全球版&亚洲版  
