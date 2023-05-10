@@ -1,4 +1,6 @@
 ![Re-TikTok_Patched_@TKJIKU](https://github.com/TKJIKU/TikTok/assets/128697634/2a0bdf94-8f2c-4869-a7fa-5e26f3801d3b)
+<div align="center">
+   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://pub.idqqimg.com/wpa/images/group.png" alt="ТК集库 | 抖音交流群" title="ТК集库 | 抖音交流群"></div>
 
 ## Re-TikTok 全球版&亚洲版
 
@@ -26,24 +28,3 @@ TikTok最新去限制全球版&亚洲版
 
 ---
 
-## Re-TikTok Global & Asia
-
-➠ It's based on the latest ReVanced features, bug fixes and optimizations for TikTok app
-
-### ➠Mod Features:
-- Allows logging in with a Google account.
-- Do not force login.
-- Removes ads from TikTok.
-- Removes download restrictions and changes the default path to download to. 
-- Remove watermark.
-- Filters tiktok videos: removing ads, removing livestreams.
-- Enables the playback speed option for all videos.
-- Shows progress bar for all video.
-- Add ReVanced Settings to TikTok
-- Spoofs the information which is retrieved from the sim-card.
-- Spoofs an existing Wi-Fi connection.
-
-###  ⚠ Notice! ! !
-1. If TikTok is banned or restricted in your country, choose a Good VPN to the USA.
-2. If your internet is fine, but it says "No internet connection", click "ReVanced Settings" in "Settings and Privacy"
-3. Profile ➜ top right menu "≡" ➜ (Settings and Privacy) ➜ click "ReVanced Settings"
