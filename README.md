@@ -23,8 +23,8 @@
 Languages：完整多语言 
 CPU架构：arm64-v8a、armeabi-v7a 
 应用包名：com.zhiliaoapp.musically 
-应用包名：com.ss.android.ugc.trill （亚洲）  
-
+应用包名：com.ss.android.ugc.trill （亚洲） 
+ 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 
  
 ㅤ★★★ Re-TikTok Global & Asia ★★★ㅤ 
@@ -52,4 +52,4 @@ Profile ➜ top right menu "≡" ➜ (Settings and Privacy) ➜ click "ReVanced 
 Languages: Full Multi Languages 
 CPU architectures: arm64-v8a, armeabi-v7a 
 Package name: com.zhiliaoapp.musically 
-Package name: com.ss.android.ugc.trill (Asia)  
+Package name: com.ss.android.ugc.trill (Asia) 
