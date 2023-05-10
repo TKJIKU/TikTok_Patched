@@ -1,6 +1,6 @@
 ## Re-TikTok 全球版&亚洲版
-![Re-TikTok_Patched_@TKJIKU](https://github.com/TKJIKU/TikTok/assets/128697634/2a0bdf94-8f2c-4869-a7fa-5e26f3801d3b)
 <div align="center">
+   <img src="https://github.com/TKJIKU/TikTok/assets/128697634/2a0bdf94-8f2c-4869-a7fa-5e26f3801d3b" alt="Re-TikTok Patched @TKJIKU">
    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://pub.idqqimg.com/wpa/images/group.png" alt="ТК集库 | 抖音交流群" title="ТК集库 | 抖音交流群"></div>
 
    <br>TikTok最新去限制全球版&亚洲版  
@@ -29,3 +29,16 @@
 
 ---
 
+### ТК集库
+   <div align="center">
+   <img src="https://github.com/TKJIKU/Re-TikTok_Patched/assets/128697634/10a12f3d-0348-452f-af00-a78ae81bfb6a" alt="公众号《TK集库》">
+   <a>公众号《TK集库》</div>
+   <p>
+   <div align="center">
+   <img src="https://github.com/TKJIKU/Re-TikTok_Patched/assets/128697634/a593a7b4-7db7-48e0-9f6c-d7e9340fc1e5" width="75%" alt="ТК集库 | 抖音交流群"></div>
+   <div align="center">
+
+[ТК集库 | 抖音交流群](https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt)
+   </div>
+
+TK集库：转载请备注来源，谢谢！🥰
