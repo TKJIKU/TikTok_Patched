@@ -20,10 +20,10 @@
 2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置和隐私”中点击“ReVanced Settings” 
 个人主页➜右上角菜单“≡”➜（设置与隐私）➜点击“ReVanced Settings” 
  
-Languages：完整多语言
-CPU架构：arm64-v8a、armeabi-v7a
-应用包名：com.zhiliaoapp.musically
-应用包名：com.ss.android.ugc.trill （亚洲） 
+Languages：完整多语言 
+CPU架构：arm64-v8a、armeabi-v7a 
+应用包名：com.zhiliaoapp.musically 
+应用包名：com.ss.android.ugc.trill （亚洲）  
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 
  
@@ -49,7 +49,7 @@ CPU架构：arm64-v8a、armeabi-v7a
 2. If your internet is fine, but it says "No internet connection", click "ReVanced Settings" in "Settings and Privacy" 
 Profile ➜ top right menu "≡" ➜ (Settings and Privacy) ➜ click "ReVanced Settings" 
  
-Languages: Full Multi Languages
-CPU architectures: arm64-v8a, armeabi-v7a
-Package name: com.zhiliaoapp.musically
-Package name: com.ss.android.ugc.trill (Asia) 
+Languages: Full Multi Languages 
+CPU architectures: arm64-v8a, armeabi-v7a 
+Package name: com.zhiliaoapp.musically 
+Package name: com.ss.android.ugc.trill (Asia)  
