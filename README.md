@@ -1,6 +1,6 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://github.com/TKJIKU/Re-TikTok/assets/128697634/ab367305-a333-4471-9cd7-7a4e65b0813d" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">  
+   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://github.com/TKJIKU/Re-TikTok/blob/8c328a99ccab2d6720fa83fc00da35835b77f402/TKJIKU.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">  
 
 <a>`(点击图片加入群聊)`</div>
 
