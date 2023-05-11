@@ -33,5 +33,3 @@ TikTok最新去限制全球版&亚洲版
 ### ТК集库
 公众号《TK集库》  
 [QQ聊天群：724372344](https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt)
-
-ТК集库：转载请备注来源，谢谢！🥰
