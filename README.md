@@ -1,7 +1,8 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://github.com/TKJIKU/Re-TikTok_Patched/blob/dd777f4636e4dd59d50801da381ca93e5f887cbf/TKJIKU.png" alt="Re-TikTok Patched @TKJIKU">
-   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://pub.idqqimg.com/wpa/images/group.png" alt="ТК集库 | 抖音交流群" title="ТК集库 | 抖音交流群"></div>
+   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://github.com/TKJIKU/Re-TikTok_Patched/blob/dd777f4636e4dd59d50801da381ca93e5f887cbf/TKJIKU.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">  
+
+<a>`(点击图片加入群聊)`</div>
 
    <br>TikTok最新去限制全球版&亚洲版  
 抖音App是全球最受欢迎的短视频应用，抖音海外版TikTok下载量横扫全球常居榜首。  
