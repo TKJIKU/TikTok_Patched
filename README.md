@@ -28,10 +28,11 @@ TikTok最新去限制全球版&亚洲版
 2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置和隐私”中点击“ReVanced Settings”
 3. 个人主页➜右上角菜单“≡”➜（设置与隐私）➜点击“ReVanced Settings”
 
-语言：完整多语言  
-架构：arm64-v8a、armeabi-v7a  
-包名：com.zhiliaoapp.musically  
-包名：com.ss.android.ugc.trill (Asia)
+### 应用详情
+Languages：完整多语言  
+CPU架构：arm64-v8a、armeabi-v7a  
+应用包名：com.zhiliaoapp.musically  
+应用包名：com.ss.android.ugc.trill (Asia)
 
 由于 TikTok 的体积非常大，我必须以 HTML 格式上传它  
 要获取模组，只需在任何浏览器中打开下载的文件即可！
