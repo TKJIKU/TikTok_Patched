@@ -27,3 +27,17 @@ TikTok最新去限制全球版&亚洲版
 1. 如果 TikTok 在你的国家被禁止或限制，选择一个 Good VPN 连接到美国
 2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置和隐私”中点击“ReVanced Settings”
 3. 个人主页➜右上角菜单“≡”➜（设置与隐私）➜点击“ReVanced Settings”
+
+语言：完整多语言  
+架构：arm64-v8a、armeabi-v7a  
+包名：com.zhiliaoapp.musically  
+包名：com.ss.android.ugc.trill (Asia)
+
+由于 TikTok 的体积非常大，我必须以 HTML 格式上传它  
+要获取模组，只需在任何浏览器中打开下载的文件即可！
+
+---
+
+### ТК集库
+公众号《TK集库》  
+[QQ聊天群：724372344](https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt)
