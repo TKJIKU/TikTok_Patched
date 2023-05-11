@@ -32,7 +32,7 @@ TikTok最新去限制全球版&亚洲版
 Languages：完整多语言  
 CPU架构：arm64-v8a、armeabi-v7a  
 应用包名：com.zhiliaoapp.musically  
-应用包名：com.ss.android.ugc.trill (Asia)
+应用包名：com.ss.android.ugc.trill （Asia）
 
 由于 TikTok 的体积非常大，我必须以 HTML 格式上传它  
 要获取模组，只需在任何浏览器中打开下载的文件即可！
