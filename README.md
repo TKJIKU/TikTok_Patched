@@ -1,12 +1,12 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://s1.ax1x.com/2023/05/12/p9yfC3q.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">  
+   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://s2.loli.net/2023/07/29/wk7bLig2AfZWsFe.jpg" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">  
 
 <a>`(点击图片加入群聊)`</div>
 
 TikTok最新去限制全球版&亚洲版  
-抖音App是全球最受欢迎的短视频应用，抖音海外版TikTok下载量横扫全球常居榜首。  
-专注有趣创意的短视频社区App，年轻人交友的人气社群！
+TikTok是一款玩转音乐创意的短影音App，更是年轻人的交友社群。  
+相信很多人都知道，抖音App 是一个风靡全球的短视频应用。在年轻人当中，它尤其受欢迎。Tiktok下载量更是横扫全球常居榜首。
 
    ---
 
