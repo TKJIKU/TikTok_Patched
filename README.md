@@ -1,8 +1,8 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt"><img src="https://s2.loli.net/2023/08/05/zQ4wlKfs1a3XBkA.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">  
-
-<a>`(点击图片加入群聊)`</div>
+   <img src="https://s2.loli.net/2023/08/05/zQ4wlKfs1a3XBkA.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">
+   
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/TKJIKU)</div>
 
 TikTok是一款玩转音乐创意的短影音App，更是年轻人的交友社群。  
 相信很多人都知道，抖音App 是一个风靡全球的短视频应用。在年轻人当中，它尤其受欢迎。Tiktok下载量更是横扫全球常居榜首。
@@ -39,4 +39,4 @@ CPU架构：arm64-v8a、armeabi-v7a
 
 ### ТК集库
 公众号《TK集库》  
-[QQ聊天群：724372344](https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb&jump_from=webapi&authKey=YIbCO4Lz0ZWckmVcLeGvo8SryGqcrSAUn1Jv/7jQEvSKiqjxgZqGaci2mjUW3Brt)
+[QQ聊天群：724372344](https://qm.qq.com/cgi-bin/qm/qr?k=se3bNdgK2BsvttAlp_znTHoAneKZoBCb)
