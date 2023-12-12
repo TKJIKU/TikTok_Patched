@@ -18,22 +18,19 @@ TikTok是一款玩转音乐创意的短影音App，更是年轻人的交友社�
 - 过滤tiktok视频：去除广告(默认开启)，去除直播(默认关闭) 
 - 为所有视频启用播放速度选项
 - 显示所有视频的进度条
-- 将 模组设置 添加内置到TikTok
+- 添加 `Tiktok settings`
 - 绕过区域限制模拟SIM卡信息
 - 欺骗现有的 Wi-Fi 连接
 
 ###  ⚠ 注意！！！
 1. 如果 TikTok 在你的国家被禁止或限制，选择一个 Good VPN 连接到美国
-2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置与隐私”中启用插件
+2. 如果您的网络正常，但上面显示“无网络连接”，请在“设置与隐私”中启用“TikTok Settings”
 
 ### 应用详情
 Languages：完整多语言  
 CPU架构：arm64-v8a、armeabi-v7a  
 应用包名：com.zhiliaoapp.musically  
 应用包名：com.ss.android.ugc.trill （Asia）
-
-由于 TikTok 的体积非常大，我必须以 HTML 格式上传它  
-要获取模组，只需在任何浏览器中打开下载的文件即可！
 
 ---
 
