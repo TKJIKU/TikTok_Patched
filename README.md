@@ -1,6 +1,6 @@
 ## Re-TikTok Global & Asia
 <div align="center">
-   <img src="https://s2.loli.net/2024/01/27/laBZkEAnO1jhm3c.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">
+   <img src="https://s2.loli.net/2024/02/04/fovdMYVO2DbgCI8.png" alt="Re-TikTok Patched @TKJIKU" title="ТК集库 | 抖音交流群">
    
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/TKJIKU)</div>
 
